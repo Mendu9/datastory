@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "German Housing Market Divergence (GREIX), 1964–2025"
+  navbar:
+    left:
+      - text: "Report"
+        href: dsv.qmd
+      - text: "Data Description"
+        href: data/data_desc.md
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    code-summary: "Show code"
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    page-layout: full
+jupyter: python3
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
