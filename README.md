@@ -4,6 +4,11 @@ Our project explores how housing prices have changed in Germany over the past si
 
 The story is told through a series of clear visualizations, backed by carefully prepared data. It brings together real, quality adjusted housing price data from the GREIX index and combines it with national indicators like GDP, unemployment, and interest rates.
 
+## HTML
+
+**The HTML file can be found in the docs folder and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html)**
+
+
 ## What this project covers
 
 - How housing prices have developed in each German city over time
@@ -40,11 +45,6 @@ The complete analysis is available as a Quarto HTML page [here](xyz). It include
 ## Presentation
 
 A short presentation version of this story is available [here](https://www.canva.com/design/DAG8ogHZKSo/nK6EFs-p901AJ74QD0Qg2A/edit).
-
-## HTML
-
-**The HTML file can be found in the docs folder and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html)**
-
 
 ---
 
