@@ -29,7 +29,7 @@ This project uses public, well-documented sources:
 - World Bank: Real GDP  
 - Destatis: Unemployment rates
 
-A full list of datasets is available in the `data/` folder along with a short description in the [data desc](https://github.com/mitalin92/DataStory_housing_market/blob/main/data/data_desc.md).
+A full list of datasets is available in the `data/` folder along with a short description in the [data desc](https://github.com/Mendu9/datastory/blob/main/data/data_desc.md).
 
 ## View the full story
 
