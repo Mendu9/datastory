@@ -6,7 +6,7 @@ The story is told through a series of clear visualizations, backed by carefully 
 
 ## HTML
 
-**The HTML file can be found in the docs folder and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html)**
+**The HTML file can be found in the docs folder under file name dsv.html and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html)**
 
 
 ## What this project covers
