@@ -42,6 +42,7 @@ The complete analysis is available as a Quarto HTML page [here](xyz). It include
 A short presentation version of this story is available [here](https://www.canva.com/design/DAG8ogHZKSo/nK6EFs-p901AJ74QD0Qg2A/edit).
 
 ## HTML
+
 The HTML file can be found in the docs folder and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html).
 ---
 
