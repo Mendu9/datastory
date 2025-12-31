@@ -43,6 +43,8 @@ A short presentation version of this story is available [here](https://www.canva
 
 ## HTML
 
-The HTML file can be found in the docs folder and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html).
+**The HTML file can be found in the docs folder and can also be viewed online [here](https://mendu9.github.io/datastory/docs/dsv.html)**
+
+
 ---
 
