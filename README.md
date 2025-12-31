@@ -39,7 +39,7 @@ The complete analysis is available as a Quarto HTML page [here](xyz). It include
 
 ## Presentation
 
-A short presentation version of this story is available [here](xyz).
+A short presentation version of this story is available [here]([xyz](https://www.canva.com/design/DAG8ogHZKSo/nK6EFs-p901AJ74QD0Qg2A/edit)).
 
 ---
 
